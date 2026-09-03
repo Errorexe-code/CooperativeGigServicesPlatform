@@ -1,0 +1,10 @@
+{
+  "description": "Connects community service workers with customers via a trust-based gig platform featuring transparent earnings and easy booking on mobile.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
